@@ -1,0 +1,40 @@
+Date: 2/1/2021 2:55:04 PM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+A transport-level error has occurred when receiving results from the server
+Date: 2/1/2021 2:55:04 PM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.)LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+
+----------------------------------------
+Date: 2/1/2021 2:55:18 PM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+A transport-level error has occurred when receiving results from the server
+Date: 2/1/2021 2:55:18 PM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The specified network name is no longer available.)LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 

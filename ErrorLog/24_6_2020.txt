@@ -1,0 +1,84 @@
+Date: 6/24/2020 7:42:22 AM Strace: 
+
+Invalid viewstate
+Date: 6/24/2020 7:42:22 AM Strace: 
+
+MESSAGE: Invalid viewstate. 
+	Client IP: 10.90.1.60
+	Port: 58479
+	Referer: 
+	Path: /FramePages/SearchType.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 10.0; Trident/7.0; rv:11.0) like Gecko
+	ViewState: /wEPDwUJNTA3NDQ2Mzk0ZGSQjBrJWxWxLCjr1CdhhY/GQwWYQOQP0Ju0K3XW1fOm3Q==
+ SOURCE: 
+ TARGETSITE: 
+ STACK TRACE: 
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+
+----------------------------------------
+Date: 6/24/2020 7:42:40 AM Strace: 
+
+Invalid viewstate
+Date: 6/24/2020 7:42:40 AM Strace: 
+
+MESSAGE: Invalid viewstate. 
+	Client IP: 10.90.1.60
+	Port: 58479
+	Referer: 
+	Path: /FramePages/SearchType.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 10.0; Trident/7.0; rv:11.0) like Gecko
+	ViewState: /wEPDwUJNTA3NDQ2Mzk0ZGSQjBrJWxWxLCjr1CdhhY/GQwWYQOQP0Ju0K3XW1fOm3Q==
+ SOURCE: 
+ TARGETSITE: 
+ STACK TRACE: 
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 6/24/2020 8:20:42 AM Strace: 
+
+Invalid viewstate
+Date: 6/24/2020 8:20:42 AM Strace: 
+
+MESSAGE: Invalid viewstate. 
+	Client IP: 10.90.1.60
+	Port: 59781
+	Referer: 
+	Path: /FramePages/SearchType.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 10.0; Trident/7.0; rv:11.0) like Gecko
+	ViewState: /wEPDwUJNTA3NDQ2Mzk0ZGSQjBrJWxWxLCjr1CdhhY/GQwWYQOQP0Ju0K3XW1fOm3Q==
+ SOURCE: 
+ TARGETSITE: 
+ STACK TRACE: 
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 6/24/2020 10:45:49 AM Strace:    at System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+The file '/FramePages/foo
+Date: 6/24/2020 10:45:49 AM Strace:    at System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+MESSAGE: The file '/FramePages/foo.aspx' does not exist.
+ SOURCE: System.Web
+ TARGETSITE: Void CheckVirtualFileExists(System.Web.VirtualPath)
+ STACK TRACE:    at System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 

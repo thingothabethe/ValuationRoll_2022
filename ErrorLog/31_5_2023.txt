@@ -1,0 +1,40 @@
+Date: 5/31/2023 3:50:13 PM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 5/31/2023 3:50:13 PM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=668; handshake=14697; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+
+----------------------------------------
+Date: 5/31/2023 6:05:45 PM Strace:    at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+A potentially dangerous Request
+Date: 5/31/2023 6:05:45 PM Strace:    at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+MESSAGE: A potentially dangerous Request.Path value was detected from the client (&).
+ SOURCE: System.Web
+ TARGETSITE: Void ValidateInputIfRequiredByConfig()
+ STACK TRACE:    at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 

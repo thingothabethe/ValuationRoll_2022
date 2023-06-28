@@ -1,0 +1,50 @@
+Date: 9/18/2018 10:30:39 AM Strace: 
+
+Invalid viewstate
+Date: 9/18/2018 10:30:39 AM Strace: 
+
+MESSAGE: Invalid viewstate. 
+	Client IP: 197.89.100.33
+	Port: 56824
+	Referer: 
+	Path: /FramePages/SearchType.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+	ViewState: /wEPDwUJNTA3NDQ2Mzk0ZGTrXI/YFujgQNzZzNldAoE1nJkGlJy8PHs3XWRIUo7f2g==
+ SOURCE: 
+ TARGETSITE: 
+ STACK TRACE: 
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+
+----------------------------------------
+Date: 9/18/2018 10:31:37 AM Strace: 
+
+Invalid viewstate
+Date: 9/18/2018 10:31:37 AM Strace: 
+
+MESSAGE: Invalid viewstate. 
+	Client IP: 197.89.100.33
+	Port: 56832
+	Referer: 
+	Path: /FramePages/SearchType.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+	ViewState: /wEPDwUJNTA3NDQ2Mzk0ZGTrXI/YFujgQNzZzNldAoE1nJkGlJy8PHs3XWRIUo7f2g==
+ SOURCE: 
+ TARGETSITE: 
+ STACK TRACE: 
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 9/18/2018 10:32:26 AM Strace: 
+
+Invalid viewstate
+Date: 9/18/2018 10:32:26 AM Strace: 
+
+MESSAGE: Invalid viewstate. 
+	Client IP: 197.89.100.33
+	Port: 56835
+	Referer: 
+	Path: /FramePages/SearchType.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+	ViewState: /wEPDwUJNTA3NDQ2Mzk0ZGTrXI/YFujgQNzZzNldAoE1nJkGlJy8PHs3XWRIUo7f2g==
+ SOURCE: 
+ TARGETSITE: 
+ STACK TRACE: 
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 

@@ -1,0 +1,82 @@
+Date: 2/27/2019 7:10:14 PM Strace:    at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+This is an invalid webresource request
+Date: 2/27/2019 7:10:14 PM Strace:    at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+MESSAGE: This is an invalid webresource request.
+ SOURCE: System.Web
+ TARGETSITE: Void System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)
+ STACK TRACE:    at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+
+----------------------------------------
+Date: 2/27/2019 7:10:25 PM Strace: 
+
+Invalid viewstate
+Date: 2/27/2019 7:10:25 PM Strace: 
+
+MESSAGE: Invalid viewstate. 
+	Client IP: 105.225.11.75
+	Port: 34940
+	Referer: http://www.durban.gov.za:89/FramePages/SearchType.aspx
+	Path: /FramePages/SearchType.aspx
+	User-Agent: Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-G950F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/8.2 Chrome/63.0.3239.111 Mobile Safari/537.36
+	ViewState: /wEPDwUJNTA3NDQ2Mzk0ZGTZ22hQevAPb01H14ErthnoekW0IOMHwdhy+hMWrsUedw==
+ SOURCE: 
+ TARGETSITE: 
+ STACK TRACE: 
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 2/27/2019 7:10:27 PM Strace:    at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+This is an invalid webresource request
+Date: 2/27/2019 7:10:27 PM Strace:    at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+MESSAGE: This is an invalid webresource request.
+ SOURCE: System.Web
+ TARGETSITE: Void System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)
+ STACK TRACE:    at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 2/27/2019 7:10:29 PM Strace: 
+
+Invalid viewstate
+Date: 2/27/2019 7:10:29 PM Strace: 
+
+MESSAGE: Invalid viewstate. 
+	Client IP: 105.225.11.75
+	Port: 34956
+	Referer: http://www.durban.gov.za:89/FramePages/SearchType.aspx
+	Path: /FramePages/SearchType.aspx
+	User-Agent: Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-G950F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/8.2 Chrome/63.0.3239.111 Mobile Safari/537.36
+	ViewState: /wEPDwUJNTA3NDQ2Mzk0ZGTZ22hQevAPb01H14ErthnoekW0IOMHwdhy+hMWrsUedw==
+ SOURCE: 
+ TARGETSITE: 
+ STACK TRACE: 
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 2/27/2019 7:10:31 PM Strace:    at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+This is an invalid webresource request
+Date: 2/27/2019 7:10:31 PM Strace:    at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+MESSAGE: This is an invalid webresource request.
+ SOURCE: System.Web
+ TARGETSITE: Void System.Web.IHttpHandler.ProcessRequest(System.Web.HttpContext)
+ STACK TRACE:    at System.Web.Handlers.AssemblyResourceLoader.System.Web.IHttpHandler.ProcessRequest(HttpContext context)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 

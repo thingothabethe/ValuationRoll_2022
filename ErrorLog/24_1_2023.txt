@@ -1,0 +1,952 @@
+Date: 1/24/2023 11:07:56 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:07:56 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=327; handshake=14797; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+
+----------------------------------------
+Date: 1/24/2023 11:08:04 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:08:04 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=327; handshake=14797; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:09:06 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Execution Timeout Expired
+Date: 1/24/2023 11:09:06 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:09:06 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Execution Timeout Expired
+Date: 1/24/2023 11:09:06 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:09:17 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:09:17 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=35504; handshake=17; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:11:08 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Timeout expired
+Date: 1/24/2023 11:11:08 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:11:09 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Timeout expired
+Date: 1/24/2023 11:11:09 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:11:13 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:11:13 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=577; handshake=12219; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:11:16 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Execution Timeout Expired
+Date: 1/24/2023 11:11:16 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:11:34 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:11:34 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=272; handshake=14807; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:11:39 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:11:39 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=272; handshake=14807; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:12:01 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:12:01 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=81; handshake=14995; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:12:10 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:12:10 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=81; handshake=14995; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:12:10 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:12:10 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=81; handshake=14995; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:12:12 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:12:12 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=81; handshake=14995; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:12:17 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:12:17 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=81; handshake=14995; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:12:18 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:12:18 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=81; handshake=14995; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:12:19 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:12:19 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=81; handshake=14995; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:12:36 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:12:36 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=55; handshake=14948; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:12:36 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:12:36 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=55; handshake=14948; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:12:36 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:12:36 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=55; handshake=14948; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:12:46 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:12:46 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=55; handshake=14948; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:12:48 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:12:48 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=55; handshake=14948; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:12:52 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:12:52 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=55; handshake=14948; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:13:31 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:13:31 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=114; handshake=14983; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:13:33 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:13:33 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=114; handshake=14983; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:13:35 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:13:35 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=114; handshake=14983; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:13:40 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:13:40 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=114; handshake=14983; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:13:44 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:13:44 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=114; handshake=14983; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:13:53 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:13:53 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=114; handshake=14983; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:14:00 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:14:00 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=114; handshake=14983; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit2.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit2.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:14:07 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:14:07 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=114; handshake=14983; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:14:10 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:14:10 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=114; handshake=14983; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:14:13 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:14:13 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=114; handshake=14983; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:14:30 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:14:30 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=114; handshake=14983; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:14:56 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:14:56 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=53; handshake=14942; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:15:02 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:15:02 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=33; handshake=14996; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 1/24/2023 11:15:05 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Connection Timeout Expired
+Date: 1/24/2023 11:15:05 AM Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=33; handshake=14996; LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 

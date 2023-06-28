@@ -1,0 +1,50 @@
+Date: 2/8/2019 11:24:07 AM Strace: 
+
+Invalid viewstate
+Date: 2/8/2019 11:24:07 AM Strace: 
+
+MESSAGE: Invalid viewstate. 
+	Client IP: 105.224.238.10
+	Port: 58330
+	Referer: http://www.durban.gov.za:89/FramePages/SearchType.aspx
+	Path: /FramePages/SearchType.aspx
+	User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.7.8 (KHTML, like Gecko) Version/9.1.3 Safari/537.86.7
+	ViewState: /wEPDwUJNTA3NDQ2Mzk0ZGTZ22hQevAPb01H14ErthnoekW0IOMHwdhy+hMWrsUedw==
+ SOURCE: 
+ TARGETSITE: 
+ STACK TRACE: 
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+
+----------------------------------------
+Date: 2/8/2019 11:24:11 AM Strace: 
+
+Invalid viewstate
+Date: 2/8/2019 11:24:11 AM Strace: 
+
+MESSAGE: Invalid viewstate. 
+	Client IP: 105.224.238.10
+	Port: 58330
+	Referer: http://www.durban.gov.za:89/FramePages/SearchType.aspx
+	Path: /FramePages/SearchType.aspx
+	User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.7.8 (KHTML, like Gecko) Version/9.1.3 Safari/537.86.7
+	ViewState: /wEPDwUJNTA3NDQ2Mzk0ZGTZ22hQevAPb01H14ErthnoekW0IOMHwdhy+hMWrsUedw==
+ SOURCE: 
+ TARGETSITE: 
+ STACK TRACE: 
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 2/8/2019 11:24:18 AM Strace: 
+
+Invalid viewstate
+Date: 2/8/2019 11:24:18 AM Strace: 
+
+MESSAGE: Invalid viewstate. 
+	Client IP: 105.224.238.10
+	Port: 58330
+	Referer: http://www.durban.gov.za:89/FramePages/SearchType.aspx
+	Path: /FramePages/SearchType.aspx
+	User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.7.8 (KHTML, like Gecko) Version/9.1.3 Safari/537.86.7
+	ViewState: /wEPDwUJNTA3NDQ2Mzk0ZGTZ22hQevAPb01H14ErthnoekW0IOMHwdhy+hMWrsUedw==
+ SOURCE: 
+ TARGETSITE: 
+ STACK TRACE: 
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 

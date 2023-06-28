@@ -1,0 +1,18 @@
+Date: 9/20/2018 1:19:18 PM Strace: 
+
+Invalid viewstate
+Date: 9/20/2018 1:19:18 PM Strace: 
+
+MESSAGE: Invalid viewstate. 
+	Client IP: 197.89.100.33
+	Port: 63063
+	Referer: 
+	Path: /FramePages/SearchType.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+	ViewState: /wEPDwUJNTA3NDQ2Mzk0ZGTrXI/YFujgQNzZzNldAoE1nJkGlJy8PHs3XWRIUo7f2g==
+ SOURCE: 
+ TARGETSITE: 
+ STACK TRACE: 
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+
+----------------------------------------

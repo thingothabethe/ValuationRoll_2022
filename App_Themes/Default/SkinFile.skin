@@ -1,0 +1,45 @@
+<%--
+Default skin template. The following skins are provided as examples only.
+
+1. Named control skin. The SkinId should be uniquely defined because
+   duplicate SkinId's per control type are not allowed in the same theme.
+
+<asp:GridView runat="server" SkinId="gridviewSkin" BackColor="White" >
+   <AlternatingRowStyle BackColor="Blue" />
+</asp:GridView>
+
+2. Default skin. The SkinId is not defined. Only one default 
+   control skin per control type is allowed in the same theme.
+
+<asp:Image runat="server" ImageUrl="~/images/image1.jpg" />
+--%>
+
+
+ <asp:TextBox runat="server" 
+ SkinID="TXT_120PX"
+ Font-Name="Arial"
+ Font-Size="8pt"
+ Width="120px" 
+ BorderColor="Silver" BorderStyle="Solid" BorderWidth="1px"
+/>
+
+
+
+  <asp:DropDownList SkinID="DRP_120PX" runat="server"  Width="120px" Font-Name="Arial"  Font-Size="8pt">
+  </asp:DropDownList>
+   <asp:DropDownList SkinID="DRP_150PX" runat="server"  Width="150px" Font-Name="Arial"  Font-Size="8pt">
+  </asp:DropDownList>
+  <asp:DropDownList SkinID="DRP_200PX" runat="server"  Width="200px" Font-Name="Arial"  Font-Size="8pt">
+  </asp:DropDownList>
+  
+  
+  <asp:DropDownList SkinID="DRP_250PX" runat="server"  Width="250px" Font-Name="Arial"  Font-Size="8pt">
+  </asp:DropDownList>
+  
+   <asp:DropDownList SkinID="DRP_300PX" runat="server"  Width="300px" Font-Name="Arial"  Font-Size="8pt">
+  </asp:DropDownList>
+  
+   <asp:Button SkinID="BTN_SEARCH"  runat="server"  CssClass="button"   />
+   
+   <asp:RequiredFieldValidator SkinID="REQ_VALEDAT" runat="server"  Font-Name="Arial"  Font-Size="8pt" Font-Color="Red" ></asp:RequiredFieldValidator>
+      <asp:CustomValidator SkinID="Custom_VALEDAT" runat="server"  Font-Name="Arial"  Font-Size="8pt" Font-Color="Red" ></asp:CustomValidator>

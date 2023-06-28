@@ -1,0 +1,52 @@
+Date: 12/15/2017 11:26:43 AM Strace:    at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at ETH_GV.Controls.Section49.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Value was either too large or too small for an Int32
+Date: 12/15/2017 11:26:43 AM Strace:    at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at ETH_GV.Controls.Section49.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Value was either too large or too small for an Int32.
+ SOURCE: mscorlib
+ TARGETSITE: Int32 ParseInt32(System.String, System.Globalization.NumberStyles, System.Globalization.NumberFormatInfo)
+ STACK TRACE:    at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at ETH_GV.Controls.Section49.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+
+----------------------------------------
+Date: 12/15/2017 12:31:20 PM Strace:    at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at ETH_GV.Controls.Section49.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Value was either too large or too small for an Int32
+Date: 12/15/2017 12:31:20 PM Strace:    at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at ETH_GV.Controls.Section49.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Value was either too large or too small for an Int32.
+ SOURCE: mscorlib
+ TARGETSITE: Int32 ParseInt32(System.String, System.Globalization.NumberStyles, System.Globalization.NumberFormatInfo)
+ STACK TRACE:    at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at ETH_GV.Controls.Section49.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 

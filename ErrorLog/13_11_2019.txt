@@ -1,0 +1,18 @@
+Date: 11/13/2019 7:26:55 AM Strace: 
+
+Invalid viewstate
+Date: 11/13/2019 7:26:55 AM Strace: 
+
+MESSAGE: Invalid viewstate. 
+	Client IP: 10.12.162.41
+	Port: 51896
+	Referer: http://www.durban.gov.za:89/FramePages/SearchType.aspx
+	Path: /FramePages/SearchType.aspx
+	User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E)
+	ViewState: /wEPDwUJNTA3NDQ2Mzk0ZGSQjBrJWxWxLCjr1CdhhY/GQwWYQOQP0Ju0K3XW1fOm3Q==
+ SOURCE: 
+ TARGETSITE: 
+ STACK TRACE: 
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+
+----------------------------------------

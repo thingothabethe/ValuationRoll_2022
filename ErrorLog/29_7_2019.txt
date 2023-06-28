@@ -1,0 +1,50 @@
+Date: 7/29/2019 1:56:47 PM Strace: 
+
+Invalid viewstate
+Date: 7/29/2019 1:56:47 PM Strace: 
+
+MESSAGE: Invalid viewstate. 
+	Client IP: 41.76.117.74
+	Port: 24762
+	Referer: 
+	Path: /FramePages/SearchType.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+	ViewState: /wEPDwUJNTA3NDQ2Mzk0ZGRtg9+d5jlTN82LRtqyjH+5xi9OqfeCvnEXXD7IjCQSww==
+ SOURCE: 
+ TARGETSITE: 
+ STACK TRACE: 
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+
+----------------------------------------
+Date: 7/29/2019 1:56:55 PM Strace: 
+
+Invalid viewstate
+Date: 7/29/2019 1:56:55 PM Strace: 
+
+MESSAGE: Invalid viewstate. 
+	Client IP: 41.76.117.74
+	Port: 45693
+	Referer: 
+	Path: /FramePages/SearchType.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+	ViewState: /wEPDwUJNTA3NDQ2Mzk0ZGRtg9+d5jlTN82LRtqyjH+5xi9OqfeCvnEXXD7IjCQSww==
+ SOURCE: 
+ TARGETSITE: 
+ STACK TRACE: 
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 7/29/2019 1:57:16 PM Strace: 
+
+Invalid viewstate
+Date: 7/29/2019 1:57:16 PM Strace: 
+
+MESSAGE: Invalid viewstate. 
+	Client IP: 41.76.117.74
+	Port: 41465
+	Referer: 
+	Path: /FramePages/SearchType.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+	ViewState: /wEPDwUJNTA3NDQ2Mzk0ZGRtg9+d5jlTN82LRtqyjH+5xi9OqfeCvnEXXD7IjCQSww==
+ SOURCE: 
+ TARGETSITE: 
+ STACK TRACE: 
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 

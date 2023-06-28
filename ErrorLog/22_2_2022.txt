@@ -1,0 +1,24 @@
+Date: 2/22/2022 12:31:19 PM Strace:    at ETH_GV.Controls.SearchResult.DownloadObjection()
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+DataWorld
+Date: 2/22/2022 12:31:19 PM Strace:    at ETH_GV.Controls.SearchResult.DownloadObjection()
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: DataWorld.VA3.LoadViewerReportFailed to open the connection.
+Details:  [Database Vendor Code: 17 ]Failed to open the connection.
+rptRS {E4B8B32C-AEFB-4492-B065-B523D09BCFE0}.rpt
+Details:  [Database Vendor Code: 17 ]
+ SOURCE: ETH_GV
+ TARGETSITE: Void DownloadObjection()
+ STACK TRACE:    at ETH_GV.Controls.SearchResult.DownloadObjection()
+   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+
+----------------------------------------

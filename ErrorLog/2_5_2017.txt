@@ -1,0 +1,106 @@
+Date: 5/2/2017 9:31:32 PM Strace:    at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+A potentially dangerous Request
+Date: 5/2/2017 9:31:32 PM Strace:    at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+MESSAGE: A potentially dangerous Request.Path value was detected from the client (<).
+ SOURCE: System.Web
+ TARGETSITE: Void ValidateInputIfRequiredByConfig()
+ STACK TRACE:    at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+
+----------------------------------------
+Date: 5/2/2017 9:31:33 PM Strace:    at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+A potentially dangerous Request
+Date: 5/2/2017 9:31:33 PM Strace:    at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+MESSAGE: A potentially dangerous Request.Path value was detected from the client (<).
+ SOURCE: System.Web
+ TARGETSITE: Void ValidateInputIfRequiredByConfig()
+ STACK TRACE:    at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 5/2/2017 9:31:33 PM Strace:    at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+A potentially dangerous Request
+Date: 5/2/2017 9:31:33 PM Strace:    at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+MESSAGE: A potentially dangerous Request.Path value was detected from the client (<).
+ SOURCE: System.Web
+ TARGETSITE: Void ValidateInputIfRequiredByConfig()
+ STACK TRACE:    at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 5/2/2017 9:31:52 PM Strace:    at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+A potentially dangerous Request
+Date: 5/2/2017 9:31:52 PM Strace:    at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+MESSAGE: A potentially dangerous Request.Path value was detected from the client (<).
+ SOURCE: System.Web
+ TARGETSITE: Void ValidateInputIfRequiredByConfig()
+ STACK TRACE:    at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 5/2/2017 9:31:52 PM Strace:    at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+A potentially dangerous Request
+Date: 5/2/2017 9:31:52 PM Strace:    at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+MESSAGE: A potentially dangerous Request.Path value was detected from the client (<).
+ SOURCE: System.Web
+ TARGETSITE: Void ValidateInputIfRequiredByConfig()
+ STACK TRACE:    at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 5/2/2017 9:32:13 PM Strace:    at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+A potentially dangerous Request
+Date: 5/2/2017 9:32:13 PM Strace:    at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+MESSAGE: A potentially dangerous Request.Path value was detected from the client (<).
+ SOURCE: System.Web
+ TARGETSITE: Void ValidateInputIfRequiredByConfig()
+ STACK TRACE:    at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 5/2/2017 9:34:07 PM Strace:    at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+A potentially dangerous Request
+Date: 5/2/2017 9:34:07 PM Strace:    at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+MESSAGE: A potentially dangerous Request.Path value was detected from the client (<).
+ SOURCE: System.Web
+ TARGETSITE: Void ValidateInputIfRequiredByConfig()
+ STACK TRACE:    at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 5/2/2017 9:34:41 PM Strace:    at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+A potentially dangerous Request
+Date: 5/2/2017 9:34:41 PM Strace:    at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+MESSAGE: A potentially dangerous Request.Path value was detected from the client (<).
+ SOURCE: System.Web
+ TARGETSITE: Void ValidateInputIfRequiredByConfig()
+ STACK TRACE:    at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 

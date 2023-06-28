@@ -1,0 +1,18 @@
+Date: 4/29/2021 7:36:50 AM Strace: 
+
+Invalid viewstate
+Date: 4/29/2021 7:36:50 AM Strace: 
+
+MESSAGE: Invalid viewstate. 
+	Client IP: 41.76.115.133
+	Port: 64076
+	Referer: 
+	Path: /FramePages/SearchType.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.49
+	ViewState: /wEPDwUJNTA3NDQ2Mzk0ZGTjONasjFSb8iETvnGNB1HQu4Y3mLcyVuj3QAzFj87SpA==
+ SOURCE: 
+ TARGETSITE: 
+ STACK TRACE: 
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+
+----------------------------------------

@@ -1,0 +1,83 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <link rel="stylesheet" href="..\App_Themes\Default\bootstrap.min.css">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+        <footer>
+                    <div class="footer-area" style="background:#01273a;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="footer-content">
+                        <div class="footer-head">
+                            <h4 style="color:#fff" <a href="http://www.durban.gov.za/eThekwini/e_colophon/contact">CONTACT US</a></h4>
+                            
+                            <p>
+                                <a style="color: #ffab17" href="https://www.surveymonkey.com/r/X5K9RXL">Submit Feedback about Ethekwini Municipality</a>
+                            </p>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="footer-content">
+                        <div class="footer-head">
+                            <h4 style="color:#fff;">Share &amp; Connect</h4>
+                            <div class="footer-contacts">
+                                <a href="https://www.facebook.com/eThekwiniM/" style="color:#fff"><p><strong style="width:80px"><i style="font-size:24px;" class="fa fa-facebook"></i></strong>&nbsp;&nbsp;Like us on Facebook</p></a>
+                                <a href="https://twitter.com/eThekwiniM?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" style="color:#fff"><p><strong style="width:80px"><i style="font-size:24px;" class="fa fa-twitter"></i></strong>&nbsp;&nbsp;Follow us on Twitter</p></a>
+                                <a href="https://za.linkedin.com/company/ethekwinim/" style="color:#fff"><p><strong style="width:80px"><i style="font-size:24px;" class="fa fa-linkedin"></i></strong>&nbsp;&nbsp;Reach us on LinkedIn</p></a>
+                                <a href="https://www.youtube.com/user/ethekwinimuni/" style="color:#fff"><p><strong style="width:80px"><i style="font-size:24px;" class="fa fa-youtube"></i></strong>&nbsp;&nbsp;Youtube Channel</p></a>
+                                <a href="https://www.instagram.com/ethekwinim" style="color:#fff"><p><strong style="width:80px"><i style="font-size:24px;" class="fa fa-instagram" aria-hidden="true"></i></strong>&nbsp;&nbsp;Instagram</p></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="footer-content">
+                        <div class="footer-head">
+                            <h4 style="color:#fff;">Visit Our Other Sites</h4>
+                            <a href="http://www.durban.gov.za/eThekwini/e_colophon/payment" style="color:#fff"><p>Payment of Accounts</p></a>
+                            <a href="http://www.durban.gov.za/eThekwini/e_colophon/edisclaimer" style="color:#fff"><p>Email Disclaimer</p></a>
+                            <a href="http://www.durban.gov.za/eThekwini/e_colophon/disclaimer" style="color:#fff"><p>Disclaimer</p></a>
+                            <a href="http://www.durban.gov.za/eThekwini/e_colophon/copyright" style="color:#fff"><p>Copyright</p></a>
+                            <a href="http://www.dataworld.co.za/TheCompany/about.asp" style="color:#fff"><p>About This Site</p></a>
+                            <a href="https://www.durban.gov.za/pages/government/privacy-policy" style="color:#ffab17">Privacy Policy</a>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-area-bottom">
+        <div class="container" style="max-width: 1360px;">
+            <div class="row">
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                    <div class="copyright text-center">
+                        <p>
+                            © Copyright 2022 <strong>EThekwini Municipality </strong>| All Rights Reserved | <a href="https://www.durban.gov.za/pages/government/privacy-policy">Terms &amp; Conditions</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</footer>
+    </form>
+</body>
+</html>

@@ -1,0 +1,34 @@
+Date: 1/21/2020 9:32:52 AM Strace: 
+
+Invalid viewstate
+Date: 1/21/2020 9:32:52 AM Strace: 
+
+MESSAGE: Invalid viewstate. 
+	Client IP: 10.90.1.38
+	Port: 62066
+	Referer: 
+	Path: /FramePages/SearchType.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 10.0; Trident/7.0; rv:11.0) like Gecko
+	ViewState: /wEPDwUJNTA3NDQ2Mzk0ZGSQjBrJWxWxLCjr1CdhhY/GQwWYQOQP0Ju0K3XW1fOm3Q==
+ SOURCE: 
+ TARGETSITE: 
+ STACK TRACE: 
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+
+----------------------------------------
+Date: 1/21/2020 9:33:19 AM Strace: 
+
+Invalid viewstate
+Date: 1/21/2020 9:33:19 AM Strace: 
+
+MESSAGE: Invalid viewstate. 
+	Client IP: 10.90.1.38
+	Port: 62066
+	Referer: 
+	Path: /FramePages/SearchType.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 10.0; Trident/7.0; rv:11.0) like Gecko
+	ViewState: /wEPDwUJNTA3NDQ2Mzk0ZGSQjBrJWxWxLCjr1CdhhY/GQwWYQOQP0Ju0K3XW1fOm3Q==
+ SOURCE: 
+ TARGETSITE: 
+ STACK TRACE: 
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 

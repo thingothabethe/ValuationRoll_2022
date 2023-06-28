@@ -1,0 +1,204 @@
+﻿body 
+{
+	
+	margin-top:0px;
+	top:0px;
+	left:0px;
+	margin-left:0px;
+	margin-right:0px;
+	height:100%;
+	margin-bottom:0px;
+	FONT-FAMILY:verdana,arial,helvetica; 
+	font-size: 9pt;
+}
+
+
+@media all  
+{   
+    .page-break { display:block; }   
+}   
+  
+@media print  
+{   
+    .page-break { display:block; page-break-before:always; }   
+}  
+
+.Header_Address
+{
+	font-size:11px;	
+}
+
+.LogoSection49
+{
+	background-image: url(../../App_Themes/Default/Images/Section49/Muncipality.GIF);	
+	height:100px;
+	width:90px;
+	background-repeat: no-repeat;
+}
+
+.Section49_A4
+{
+	/*padding-left:1in;
+	padding-top:0.25in;
+	padding-bottom:0.5in;
+	padding-right:0.5in;
+	height:11in;
+	width:8.5in;*/
+	
+}
+.PageSize_Letter
+{
+	margin-left:0.5in;
+	margin-top:0.05in;
+	margin-bottom:0.05in;
+	margin-right:0.2in;
+	height:11.2in;
+	width:6.1in;
+	
+}
+.Header_Name
+{
+	font-weight:bold;
+}
+.Header_Name2
+{
+	font-weight:bold;
+	font-size:9pt;
+}
+.Header_Runtime_Address
+{
+		FONT-FAMILY:arial,verdana,helvetica; 
+		font-size: 9pt;
+		text-indent:4px;
+		height:50px;
+		
+}
+.BlankRow
+{
+	height:3px;	
+}
+.BlankRow1
+{
+	height:6px;	
+}
+.BlankRow2
+{
+	height:10px;	
+}
+
+.Body_Title
+{
+ font-family :arial,verdana,helvetica; 
+  font-weight:bold;
+  font-size:11px;
+  text-decoration:UnderLine;	
+}
+.Body_Start
+{
+	font-size:12px;	
+}
+
+.Body_Content
+{
+	font-size:8.5pt;	
+	text-indent:2px;
+	word-spacing:2px;
+	line-height:15px;
+	text-align:justify;
+}
+.Body_Content2
+{
+	font-size:8.5pt;	
+	text-indent:2px;
+	word-spacing:2px;
+	line-height:15px;
+	
+}
+
+.Body_Table
+{
+	
+	BORDER-COLLAPSE:collapse;
+	borderColor:black; 
+	rules:all;  
+	bgColor:#ffffff;
+	border:3; 
+	font-family:Arial;
+	font-size:9pt;
+	empty-cells: show ;
+	border-width:2px;
+	width:95%;
+	border-style:solid;
+}
+
+.Body_TableCaption
+{
+  font-weight:bold;
+  font-size:10px;
+  width:20%;	
+  text-align:left;
+  padding-left:10px;
+}
+.Body_TableCaptionInner
+{
+  font-weight:bold;
+  font-size:10px;
+  width:15%;	
+  text-align:left;
+  padding-left:2px;
+}
+.Body_TableContent
+{
+	text-align:left;
+	padding-left:5px;
+	font-size:10px;
+	width:75%;
+	
+}
+.Body_TableContentInner
+{
+	text-align:left;
+	padding-left:5px;
+	font-size:10px;
+	
+}
+
+.FooterSalutation
+{
+ font-family :arial,verdana,helvetica; 
+ font-size:9pt;
+ text-align:left;	
+}
+
+
+.Information_heading
+{
+	font-family :arial,verdana,helvetica; 
+	font-size:15px;
+	text-indent:10px;
+	text-align:left;
+		
+	font-weight:bold;
+}
+.Info_Question
+{
+	padding-top:20px;
+	font-family :arial,verdana,helvetica; 
+	font-size:12px;
+	text-align:left;
+	font-weight:bold;
+}
+.Info_Answer
+{
+	font-size:12px;	
+	text-indent:3px;
+	padding-top:6px;
+	word-spacing:3px;
+	line-height:15px;
+	text-align:justify;
+}
+
+.Link49:link{FONT-SIZE: 12px; COLOR: blue; FONT-FAMILY:verdana,arial,helvetica; text-decoration:underline; font-weight:normal;   }
+.Link49:visited{FONT-SIZE: 12px; COLOR: blue; FONT-FAMILY:verdana,arial,helvetica;text-decoration:underline; font-weight:normal; }
+.Link49:hover{FONT-SIZE: 12px; COLOR: Red ; FONT-FAMILY:verdana,arial,helvetica; text-decoration:underline;font-weight:normal; }
+.Link49:active{FONT-SIZE: 12px; COLOR: blue; FONT-FAMILY:verdana,arial,helvetica; text-decoration:underline;font-weight:normal; }

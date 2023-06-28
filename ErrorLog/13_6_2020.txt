@@ -1,0 +1,66 @@
+Date: 6/13/2020 4:43:12 AM Strace: 
+
+Invalid viewstate
+Date: 6/13/2020 4:43:12 AM Strace: 
+
+MESSAGE: Invalid viewstate. 
+	Client IP: 102.249.1.87
+	Port: 3712
+	Referer: 
+	Path: /FramePages/SearchType.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+	ViewState: /wEPDwUJNTA3NDQ2Mzk0ZGSowS+hBZckRx7jLJqFOjotelZQnAYWQK3vmpt6xYq6Mg==
+ SOURCE: 
+ TARGETSITE: 
+ STACK TRACE: 
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+
+----------------------------------------
+Date: 6/13/2020 4:43:21 AM Strace: 
+
+Invalid viewstate
+Date: 6/13/2020 4:43:21 AM Strace: 
+
+MESSAGE: Invalid viewstate. 
+	Client IP: 102.249.1.87
+	Port: 3712
+	Referer: 
+	Path: /FramePages/SearchType.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+	ViewState: /wEPDwUJNTA3NDQ2Mzk0ZGSowS+hBZckRx7jLJqFOjotelZQnAYWQK3vmpt6xYq6Mg==
+ SOURCE: 
+ TARGETSITE: 
+ STACK TRACE: 
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 6/13/2020 4:43:46 AM Strace: 
+
+Invalid viewstate
+Date: 6/13/2020 4:43:46 AM Strace: 
+
+MESSAGE: Invalid viewstate. 
+	Client IP: 102.249.1.87
+	Port: 3712
+	Referer: 
+	Path: /FramePages/SearchType.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+	ViewState: /wEPDwUJNTA3NDQ2Mzk0ZGSowS+hBZckRx7jLJqFOjotelZQnAYWQK3vmpt6xYq6Mg==
+ SOURCE: 
+ TARGETSITE: 
+ STACK TRACE: 
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 6/13/2020 4:43:56 AM Strace: 
+
+Invalid viewstate
+Date: 6/13/2020 4:43:56 AM Strace: 
+
+MESSAGE: Invalid viewstate. 
+	Client IP: 102.249.1.87
+	Port: 3712
+	Referer: 
+	Path: /FramePages/SearchType.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+	ViewState: /wEPDwUJNTA3NDQ2Mzk0ZGSowS+hBZckRx7jLJqFOjotelZQnAYWQK3vmpt6xYq6Mg==
+ SOURCE: 
+ TARGETSITE: 
+ STACK TRACE: 
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 

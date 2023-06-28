@@ -1,0 +1,164 @@
+﻿body 
+{
+	margin-top:0px;
+	margin-left:0px;
+	margin-right:0px;
+}
+.tableWithBorderCSS
+{
+	
+	BORDER-COLLAPSE: collapse;  
+	border-Color:WHITE; 
+	rules:all;  
+	bgColor:#ffffff;
+	border:0; 
+	font-family:Arial;
+	font-size:10px;
+	border-style:outset;
+	
+}
+.tblInner
+{
+	BORDER-COLLAPSE: collapse;  
+	border-Color:WHITE; 
+	rules:all;  
+	bgColor:#ffffff;
+	border:0; 
+	font-family:Arial;
+	font-size:10px;
+	rules:all;  
+	border-style:groove;
+	
+}
+.innerTbl2
+{
+	font-size:10px;
+	color:black;
+	border-color:White;
+	font-weight:normal;
+	background-color: #D8DED3;
+	font-family: Arial;
+	vertical-align:middle;
+	border-bottom-style:ridge;
+	padding-left:10px;
+	border-top:inset,1;
+}
+
+.windowHeader1
+{
+	font-size:13px;
+	color:WHITE;
+	font-weight:bold;
+	background-color: #808080;
+	font-family: Arial;
+	vertical-align:middle;
+	padding-left:10px;
+	padding-top:2px;
+	padding-bottom:3px;
+}
+
+.windowSubHeader1
+{
+
+	font-size:11px;
+	color:black;
+	font-weight:bold;
+	background-color:#B0C4DE; 
+	font-family:Arial;
+	vertical-align:middle;
+	padding-left:5px;
+	height:15px;
+	padding-top:2px;
+	padding-bottom:2px;
+	
+	
+}
+
+.widowRowCaption
+{
+	font-size:11px;
+	color:black;
+	font-weight:normal;
+	background-color:#DCDCDC; 
+	font-family:Arial;
+	vertical-align:middle;
+	padding-left:5px;
+	border-style:ridge;
+	margin-bottom:2px;
+	margin-top:2px;
+	padding-top:2px;
+	padding-bottom:2px;
+	width:9%;
+}
+
+.widowRowCaptionBlank
+{
+	background-color:#FFFAFA; 
+	width:9%;
+}
+
+.windowRowContent
+{
+	padding-left:7px;
+	
+}
+.tblFooter
+{
+ background-color:#F8F8FF;
+ height:10px;
+ 
+}
+.tdContaint
+{
+   background-color:#FFFAFA;
+   padding-left:5px;
+   /*width:100px;*/
+   width:20%;
+   	
+}
+.BlankRow
+{
+	height:5px;
+	background-color:White;
+}
+
+
+
+.FormH
+{
+	FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY:verdana,arial,helvetica; text-decoration:none;
+	font-weight:bold;
+	background-color:#FFE4B5;
+	padding-top:2px;
+	padding-bottom:2px;
+	text-indent:4px;
+	padding-left:15px;
+}
+
+
+.button
+{
+	border: whitesmoke 1px solid;
+	 color:White;
+	 font-size:9pt;
+	 font-weight:bold;
+	 text-indent:4px;
+	 border-color:#d5692c;
+	 background-color:#06A4D1;
+	
+}
+
+.Loading
+{
+	
+      position:absolute; 
+      border:0px;
+      border-style: solid; 
+      padding: 25px; 
+      color:Red; 
+      font-size:10pt;
+      border-color:Aqua;
+      background-color:#d5692c;	
+      filter:alpha(opacity=70);-moz-opacity:.50;opacity:.50;
+	
+}
