@@ -21,6 +21,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ValuationRoll_2022", ".", "
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "50373"
+		SlnRelativePath = "..\ValuationRoll_2022\"
 	EndProjectSection
 EndProject
 Global

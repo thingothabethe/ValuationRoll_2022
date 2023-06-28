@@ -5,18 +5,49 @@
 <html>
 <head runat="server">
     <link rel="stylesheet" href="..\App_Themes\Default\bootstrap.min.css">
+    <link rel="stylesheet" href="..\App_Themes\Default\Downlaod.css">
+    <link rel="stylesheet" href="..\App_Themes\Default\Section49.css">
+    <link rel="stylesheet" href="..\App_Themes\Default\StyleSheet.css">
+
     <title></title>
-    <asp:ContentPlaceHolder id="head" runat="server">
-    </asp:ContentPlaceHolder>
 </head>
 <body>
     <form id="form1" runat="server">
+        <div class="cyclone" style=float:right;color:black; font-weight: 100" id="notificationTxt-left">
+        
+        <strong style="color: black"></strong>&nbsp;&nbsp;
+        <button class="btn btn-sm btn-warning rounded" id="google_translate_element" style="height:30px; background:transparent; border:none;"><div class="skiptranslate goog-te-gadget" dir="ltr" style=""><div id=":0.targetLanguage"><select class="goog-te-combo" aria-label="Language Translate Widget"><option value="">Select Language</option><option value="zu">Zulu</option></select></div>Powered by <span style="white-space:nowrap"><a class="VIpgJd-ZVi9od-l4eHX-hSRGPd" href="https://translate.google.com" target="_blank"><img src="https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png" width="37px" height="14px" style="padding-right: 3px" alt="Google Translate">Translate</a></span></div></button>
+        <script type="text/javascript">
+            function googleTranslateElementInit() {
+                new google.translate.TranslateElement({
+                    pageLanguage: 'en',
+                    includedLanguages: 'zu,en',
+                    autoDisplay: false
+                }, 'google_translate_element');
+            }
+        </script>
+        <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    </div>
+        <nav id="header" class="position-absolute header-scrolled">
+    <div class="container" style="margin: 0 auto; max-width: 100%; color:black">
+        <a class="em-logo municipalityLogo" style="float:left" href="/"><img src="App_Themes/Default/Images/Section49/Logo.png" alt="Home Page" class="img-fluid" style="width:50%"></a>
+        <div id="roaster-logo" class="logo mr-auto ks-feed-logo-zone-whide">
+        </div>
+        <nav class="nav-menu d-none d-lg-block">
+            <p>VALUATION ROLL GV 2022 - Market Value  (In terms of the Local Government Municipal Properties Rating Act No 6 of 2004)</p>
+        </nav>
+    </div>
+</nav>
     <div>
         <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
         
         </asp:ContentPlaceHolder>
     </div>
-        <footer>
+       
+    </form>
+</body>
+</html>
+ <footer>
                     <div class="footer-area" style="background:#01273a;">
         <div class="container">
             <div class="row">
@@ -78,6 +109,3 @@
     </div>
 
 </footer>
-    </form>
-</body>
-</html>
