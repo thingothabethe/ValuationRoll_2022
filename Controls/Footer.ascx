@@ -1,4 +1,4 @@
-<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="~/Controls/Footer.ascx.cs" Inherits="Controls_Footer" %>
+<%--<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="~/Controls/Footer.ascx.cs" Inherits="Controls_Footer" %>
 <table height="25px" cellSpacing="0" cellPadding="0" width="100%" bgColor="#d5692c" border="0" align="center" class="bottomText">
   <TBODY>
   <TR style="padding-left:5px; padding-top:5px; padding-bottom:5px;" valign="middle">
@@ -17,4 +17,4 @@
     <td width="1%" valign="middle">|</td>
      <td> <A class="DbottomText" href="http://www.durban.gov.za/eThekwini/e_colophon/contact" target="_top">Contact Us</A></TD>
 
-</TR></TBODY></TABLE>
+</TR></TBODY></TABLE> --%>

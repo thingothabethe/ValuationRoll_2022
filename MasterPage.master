@@ -1,43 +1,33 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
 
 <!DOCTYPE html>
-
 <html>
 <head runat="server">
-    <link rel="stylesheet" href="..\App_Themes\Default\bootstrap.min.css">
-    <link rel="stylesheet" href="..\App_Themes\Default\Downlaod.css">
-    <link rel="stylesheet" href="..\App_Themes\Default\Section49.css">
-    <link rel="stylesheet" href="..\App_Themes\Default\StyleSheet.css">
+    <link rel="stylesheet" href="App_Themes\Default\bootstrap.min.css">
+    <link rel="stylesheet" href="App_Themes\Default\Downlaod.css">
+    <link rel="stylesheet" href="App_Themes\Default\Section49.css">
+    <link rel="stylesheet" href="App_Themes\Default\StyleSheet.css">
 
     <title></title>
 </head>
-<body>
+<body style="background: linear-gradient(0deg, #fff 50%, #ffdb50 50%);">
+     
     <form id="form1" runat="server">
-        <div class="cyclone" style=float:right;color:black; font-weight: 100" id="notificationTxt-left">
-        
-        <strong style="color: black"></strong>&nbsp;&nbsp;
-        <button class="btn btn-sm btn-warning rounded" id="google_translate_element" style="height:30px; background:transparent; border:none;"><div class="skiptranslate goog-te-gadget" dir="ltr" style=""><div id=":0.targetLanguage"><select class="goog-te-combo" aria-label="Language Translate Widget"><option value="">Select Language</option><option value="zu">Zulu</option></select></div>Powered by <span style="white-space:nowrap"><a class="VIpgJd-ZVi9od-l4eHX-hSRGPd" href="https://translate.google.com" target="_blank"><img src="https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png" width="37px" height="14px" style="padding-right: 3px" alt="Google Translate">Translate</a></span></div></button>
-        <script type="text/javascript">
-            function googleTranslateElementInit() {
-                new google.translate.TranslateElement({
-                    pageLanguage: 'en',
-                    includedLanguages: 'zu,en',
-                    autoDisplay: false
-                }, 'google_translate_element');
-            }
-        </script>
-        <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-    </div>
-        <nav id="header" class="position-absolute header-scrolled">
-    <div class="container" style="margin: 0 auto; max-width: 100%; color:black">
-        <a class="em-logo municipalityLogo" style="float:left" href="/"><img src="App_Themes/Default/Images/Section49/Logo.png" alt="Home Page" class="img-fluid" style="width:50%"></a>
-        <div id="roaster-logo" class="logo mr-auto ks-feed-logo-zone-whide">
-        </div>
-        <nav class="nav-menu d-none d-lg-block">
-            <p>VALUATION ROLL GV 2022 - Market Value  (In terms of the Local Government Municipal Properties Rating Act No 6 of 2004)</p>
-        </nav>
-    </div>
-</nav>
+    
+        <header class="site-header" style="background-color:white">
+  <div class="site-identity">
+    <a href="#"><img src="/images/Logo.jpg" alt="Municipality Logo" /></a>
+    <h6 style="margin:0 auto"><strong>VALUATION ROLL GV 2022 - Market Value</strong><br /> In terms of the Local Government Municipal Properties Rating Act No 6 of 2004</h6>
+  </div>  
+  <nav class="site-navigation">
+    <ul class="nav">
+      <li><a href="http://www.dataworld.co.za/TheCompany/about.asp">About</a></li> 
+      <li><a href="http://www.durban.gov.za/eThekwini/e_colophon/contact">Contact</a></li> 
+    </ul>
+  </nav>
+</header>
+
+       
     <div>
         <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
         
@@ -48,64 +38,39 @@
 </body>
 </html>
  <footer>
-                    <div class="footer-area" style="background:#01273a;">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4 col-sm-4 col-xs-12">
-                    <div class="footer-content">
-                        <div class="footer-head">
-                            <h4 style="color:#fff" <a href="http://www.durban.gov.za/eThekwini/e_colophon/contact">CONTACT US</a></h4>
-                            
-                            <p>
-                                <a style="color: #ffab17" href="https://www.surveymonkey.com/r/X5K9RXL">Submit Feedback about Ethekwini Municipality</a>
-                            </p>
 
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-4 col-xs-12">
-                    <div class="footer-content">
-                        <div class="footer-head">
-                            <h4 style="color:#fff;">Share &amp; Connect</h4>
-                            <div class="footer-contacts">
-                                <a href="https://www.facebook.com/eThekwiniM/" style="color:#fff"><p><strong style="width:80px"><i style="font-size:24px;" class="fa fa-facebook"></i></strong>&nbsp;&nbsp;Like us on Facebook</p></a>
-                                <a href="https://twitter.com/eThekwiniM?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" style="color:#fff"><p><strong style="width:80px"><i style="font-size:24px;" class="fa fa-twitter"></i></strong>&nbsp;&nbsp;Follow us on Twitter</p></a>
-                                <a href="https://za.linkedin.com/company/ethekwinim/" style="color:#fff"><p><strong style="width:80px"><i style="font-size:24px;" class="fa fa-linkedin"></i></strong>&nbsp;&nbsp;Reach us on LinkedIn</p></a>
-                                <a href="https://www.youtube.com/user/ethekwinimuni/" style="color:#fff"><p><strong style="width:80px"><i style="font-size:24px;" class="fa fa-youtube"></i></strong>&nbsp;&nbsp;Youtube Channel</p></a>
-                                <a href="https://www.instagram.com/ethekwinim" style="color:#fff"><p><strong style="width:80px"><i style="font-size:24px;" class="fa fa-instagram" aria-hidden="true"></i></strong>&nbsp;&nbsp;Instagram</p></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-4 col-xs-12">
-                    <div class="footer-content">
-                        <div class="footer-head">
-                            <h4 style="color:#fff;">Visit Our Other Sites</h4>
-                            <a href="http://www.durban.gov.za/eThekwini/e_colophon/payment" style="color:#fff"><p>Payment of Accounts</p></a>
-                            <a href="http://www.durban.gov.za/eThekwini/e_colophon/edisclaimer" style="color:#fff"><p>Email Disclaimer</p></a>
-                            <a href="http://www.durban.gov.za/eThekwini/e_colophon/disclaimer" style="color:#fff"><p>Disclaimer</p></a>
-                            <a href="http://www.durban.gov.za/eThekwini/e_colophon/copyright" style="color:#fff"><p>Copyright</p></a>
-                            <a href="http://www.dataworld.co.za/TheCompany/about.asp" style="color:#fff"><p>About This Site</p></a>
-                            <a href="https://www.durban.gov.za/pages/government/privacy-policy" style="color:#ffab17">Privacy Policy</a>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="footer-area-bottom">
+    <div style="background:#01273a; padding:1%; color:darkgrey">
         <div class="container" style="max-width: 1360px;">
+            <div class="text-center">
+               
+                        <ul style="margin:0; padding:0">
+                            <li>
+                                <a href="http://www.durban.gov.za/eThekwini/e_colophon/payment" style="color:#fff"><p>Payment of Accounts </p></a>
+                            </li>
+                            <li>
+                                <a href="http://www.durban.gov.za/eThekwini/e_colophon/edisclaimer" style="color:#fff"><p>  Email Disclaimer </p></a>                
+                            </li>
+                            <li>
+                                <a href="http://www.durban.gov.za/eThekwini/e_colophon/disclaimer" style="color:#fff"><p>  Disclaimer </p></a>               
+                            </li>
+                            <li>
+                                <a href="https://www.durban.gov.za/pages/government/privacy-policy" style="color:#fff"> Privacy Policy</a>   
+                            </li>
+                        </ul>
+                   
+            </div>
+         
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12">
-                    <div class="copyright text-center">
-                        <p>
-                            © Copyright 2022 <strong>EThekwini Municipality </strong>| All Rights Reserved | <a href="https://www.durban.gov.za/pages/government/privacy-policy">Terms &amp; Conditions</a>
+                    <div class="text-center">
+                        <p style="font-size:small; margin:0;padding:0">
+                            © Copyright 2022 EThekwini Municipality | All Rights Reserved | <a href="https://www.durban.gov.za/pages/government/privacy-policy" style="color:darkgrey">Terms &amp; Conditions</a>
                         </p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+     
 
 </footer>
