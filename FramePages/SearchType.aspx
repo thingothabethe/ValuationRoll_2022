@@ -34,7 +34,7 @@
                                 </td>
 
                                 <td align="left" style="float:left">
-                                    <asp:Button class="button" ID="btnGo" runat="server" Text="Select" SkinID="BTN_SEARCH" OnClick="btnSearch_Click" AccessKey="s" ToolTip="Click" Style="cursor: hand;" />
+                                    <asp:Button class="button" ID="btnGo" runat="server" Text="Go" SkinID="BTN_SEARCH" OnClick="btnSearch_Click" AccessKey="s" ToolTip="Click" Style="cursor: hand;" />
                                 </td>
                                 <td>&nbsp;</td>
 
