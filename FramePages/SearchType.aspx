@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeBehind="SearchType.aspx.cs" Inherits="ETH_GV.FramePages.SearchType" Theme="Default" ValidateRequest="false" EnableSessionState="False" EnableViewState="false" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeBehind="SearchType.aspx.cs" Inherits="ETH_GV.FramePages.SearchType" Theme="Default" ValidateRequest="false" EnableSessionState="False" EnableViewState="false" Title="VALUATION ROLL (GV 2022)" %>
 
 <asp:Content ID="Content" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
