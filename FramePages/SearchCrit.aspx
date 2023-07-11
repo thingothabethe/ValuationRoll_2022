@@ -1,8 +1,12 @@
 ﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeBehind="SearchCrit.aspx.cs"  EnableSessionState="False" EnableViewState="false" Title="Search:Full Title Criteria" %>
 <%--Inherits="ETH_GV.FramePages.SearchCrit" --%>
 <asp:Content ID="Content" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-
+   
     <div class="container content" style="background-color: #f7f7f7; padding: 1%; margin-top: 1%; margin-bottom: 1%;">
+         <div class="content" id="Message" class="homeMessage" style="padding-bottom:2%; padding-top:1%">
+                            <b style="color: Red;">Use either Rate Number / Physical Address/Cadastral Description Only to search the valuations </b>
+                            <br />
+        </div>
         <table id="3DTable1" cellspacing="0" cellpadding="0" width="100%" border="0">
             <tr>
                 <td class="FormH" style="width:60%; background-color: #01273a; padding:1%">
@@ -14,17 +18,17 @@
                 <td class="SearchBlank" colspan="2" align="center"></td>
             </tr>
             <tr>
-                <td colspan="2">
+                <td colspan="2" >
                     <table border="0" cellpadding="0" cellspacing="1" width="100%">
                         <tr>
-                            <td colspan="7" class="windowHeaderSearch PaddingLeftSearch">Rate Number  </td>
+                            <td class="windowRowContentSearch PaddingLeftSearch" colspan="7" class="windowHeaderSearch PaddingLeftSearch">Rate Number  </td>
                         </tr>
 
                         <tr class="searchContentRowStyle">
                             <td class="PaddingLeftSearch PaddingSearchWidth"></td>
                             <td class="widowRowCaptionSearch">Volume No.</td>
                             <td class="windowRowContentSearch">
-                                <select name="drpVolumeNo" id="drpVolumeNo" style="font-family: Arial; font-size: 8pt; width: 120px;">
+                                <select name="drpVolumeNo" id="drpVolumeNo" style="font-family: Arial; font-size: 8pt; width: 120px; ">
                                     <option selected="selected" value="">[--Select Volume No.--]</option>
                                     <option value="01">01</option>
                                     <option value="02">02</option>
@@ -127,7 +131,7 @@
                             <td class="SearchsubBlank" colspan="7"></td>
                         </tr>
                         <tr>
-                            <td colspan="7" class="windowHeaderSearch PaddingLeftSearch">Physical Address</td>
+                            <td class="windowRowContentSearch PaddingLeftSearch" colspan="7" class="windowHeaderSearch PaddingLeftSearch">Physical Address</td>
                         </tr>
                         <tr class="searchContentRowStyle">
                             <td class="PaddingLeftSearch PaddingSearchWidth"></td>
@@ -146,7 +150,7 @@
                             <td class="SearchsubBlank" colspan="7"></td>
                         </tr>
                         <tr>
-                            <td colspan="7" class="windowHeaderSearch PaddingLeftSearch">Cadastral Description</td>
+                            <td class="windowRowContentSearch PaddingLeftSearch"colspan="7" class="windowHeaderSearch PaddingLeftSearch">Cadastral Description</td>
                         </tr>
                         <tr id="SearchCriteria1_rowFullTitle" class="searchContentRowStyle">
                             <td class="PaddingLeftSearch PaddingSearchWidth"></td>
@@ -166,8 +170,7 @@
 
         </table>
 
-    </div>
-    <div class="container content">
+        <div style="padding-top:3%">
         <div class="row" style="display: flex; justify-content: space-between;padding:1%">
             <div class="container content" style="display:inline-block"> 
                 <input type="submit" name="btnSearch" value="Search" onclick="javascript:return SearchResult();" id="btnSearch" accesskey="s" title="Click to Search result" class="button" style="cursor: hand; float:right; width:100px; padding:0" />   
@@ -176,6 +179,9 @@
             </div>
         </div>
     </div>
+
+    </div>
+    
 
     <script language="javascript">
         function BackPerv() { history.back(-1); return false; }
