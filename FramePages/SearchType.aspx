@@ -23,7 +23,7 @@
                         <table width="100%" border="0" cellpadding="0" cellspacing="0">
 
                             <tr class="searchContentRowStyle" style="width:60%">
-                                <td class="<%--widowRowCaptionSearch2 --%>PaddingLeftSearch" style="float:left; width:auto">Valuation Roll</td>
+                                <td class="<%--widowRowCaptionSearch2 --%> PaddingLeftSearch" style="float:left; width:auto">Valuation Roll</td>
 
                                 <td class="windowRowContentSearch PaddingLeftSearch" style="float:left; width: auto;height:100%;padding-right:1%" align="left; ">
                                     <asp:DropDownList ID="drpSearchType" runat="server" SkinID="DRP_150PX" Font-Names="Segoe UI" Font-Size="Medium">

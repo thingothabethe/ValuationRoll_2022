@@ -37,7 +37,7 @@
     </form>
 </body>
 </html>
- <footer>
+ <footer style="position:fixed; bottom:0; width:100%">
 
     <div style="background:#01273a; padding:1%; color:darkgrey">
         <div class="container" style="max-width: 1360px;">
