@@ -22,9 +22,14 @@ body {
     text-indent: 4px;
     border-color: #d5692c;
     background-color: #ffcb05;
+    margin: 1em;
 }
-
-a {
+    .button:after {
+        content: '';
+        display: inline-block;
+        width: 99.5%; /* generates an extra transparent line */
+    }
+    a {
     text-decoration: none;
     color: #000;
 }
@@ -84,5 +89,10 @@ a {
 ul li {
     display: inline-block;
     padding: 0 10px;
+}
+
+.content {
+    font-size: 12px;
+    FONT-FAMILY: verdana,arial,helvetica;
 }
 

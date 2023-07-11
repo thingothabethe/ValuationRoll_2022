@@ -1,10 +1,11 @@
-﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeBehind="SearchCrit.aspx.cs" Inherits="ETH_GV.FramePages.SearchCrit" EnableSessionState="False" EnableViewState="false" Title="Search:Full Title Criteria" %>
-
+﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeBehind="SearchCrit.aspx.cs"  EnableSessionState="False" EnableViewState="false" Title="Search:Full Title Criteria" %>
+<%--Inherits="ETH_GV.FramePages.SearchCrit" --%>
 <asp:Content ID="Content" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <div class="container" style="background-color: #f7f7f7; padding: 1%; margin-top: 1%; margin-bottom: 1%;">
+
+    <div class="container content" style="background-color: #f7f7f7; padding: 1%; margin-top: 1%; margin-bottom: 1%;">
         <table id="3DTable1" cellspacing="0" cellpadding="0" width="100%" border="0">
             <tr>
-                <td class="FormH" style="width: 60%; background-color: #01273a">
+                <td class="FormH" style="width:60%; background-color: #01273a; padding:1%">
                     <h4 style="margin: 0; color: white">Search Value Assist - Property</h4>
                 </td>
             </tr>
@@ -166,25 +167,13 @@
         </table>
 
     </div>
-    <div class="container">
+    <div class="container content">
         <div class="row" style="display: flex; justify-content: space-between;padding:1%">
-            <%--<table cellpadding="0" cellspacing="0" border="0">
-                <tr >
-                    <td>
-                        <input type="submit" name="btnSearch" value="Search" onclick="javascript:return SearchResult();" id="btnSearch" accesskey="s" title="Click to Search result" class="button" style="cursor:hand;" /></td>
-                    <td>
-                        <input type="submit" name="btnReset" value="Reset" id="btnReset" onclick="javascript:return Reset();" accesskey="r" title="Clear all the search values." class="button" style="cursor:hand;" /></td>
-                      <td>
-                        <input type="submit" name="btnBack" value="Back" id="btnBack" accesskey="b"  onclick="javascript:return BackPerv();" title="Back to the previous page" class="button" style="cursor:hand;" /></td>
-                </tr>
-            </table>--%>
-
-            <input type="submit" name="btnSearch" value="Search" onclick="javascript:return SearchResult();" id="btnSearch" accesskey="s" title="Click to Search result" class="button" style="cursor: hand;" /></td>
-                   
-            <input type="submit" name="btnReset" value="Reset" id="btnReset" onclick="javascript:return Reset();" accesskey="r" title="Clear all the search values." class="button" style="cursor: hand;" /></td>
-                      
-            <input type="submit" name="btnBack" value="Back" id="btnBack" accesskey="b" onclick="javascript:return BackPerv();" title="Back to the previous page" class="button" style="cursor: hand;" /></td>
-                
+            <div class="container content" style="display:inline-block"> 
+                <input type="submit" name="btnSearch" value="Search" onclick="javascript:return SearchResult();" id="btnSearch" accesskey="s" title="Click to Search result" class="button" style="cursor: hand; float:right; width:100px; padding:0" />   
+                <input type="submit" name="btnReset" value="Reset" id="btnReset" onclick="javascript:return Reset();" accesskey="r" title="Clear all the search values." class="button" style="cursor: hand;float:right;width:100px; padding:0" />     
+                <input type="submit" name="btnBack" value="Back" id="btnBack" accesskey="b" onclick="javascript:return BackPerv();" title="Back to the previous page" class="button" style="cursor: hand;float:right; width:100px; padding:0" />
+            </div>
         </div>
     </div>
 

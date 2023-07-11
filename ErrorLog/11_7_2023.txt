@@ -1,0 +1,184 @@
+Date: 11/Jul/2023 11:27:16 Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Could not find stored procedure 'Get_DropDownFillValues'
+Date: 11/Jul/2023 11:27:16 Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Could not find stored procedure 'Get_DropDownFillValues'.LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+
+----------------------------------------
+Date: 11/Jul/2023 11:27:32 Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Could not find stored procedure 'Get_DropDownFillValues'
+Date: 11/Jul/2023 11:27:32 Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Could not find stored procedure 'Get_DropDownFillValues'.LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 11/Jul/2023 11:28:36 Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Could not find stored procedure 'Get_DropDownFillValues'
+Date: 11/Jul/2023 11:28:36 Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Could not find stored procedure 'Get_DropDownFillValues'.LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 11/Jul/2023 11:32:22 Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Could not find stored procedure 'Get_DropDownFillValues'
+Date: 11/Jul/2023 11:32:22 Strace:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Could not find stored procedure 'Get_DropDownFillValues'.LoadDataBase-->GetSuburbs
+ SOURCE: ETH_GV
+ TARGETSITE: System.Data.DataSet Get_DropDownValues(DataWorld.XML.DropDownType)
+ STACK TRACE:    at DataWorld.XML.LoadDataBase.Get_DropDownValues(DropDownType drpType)
+   at ETH_GV.FramePages.SearchCrit.LoadPageData()
+   at ETH_GV.FramePages.SearchCrit.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 11/Jul/2023 13:11:49 Strace:    at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+c:\Users\thingo
+Date: 11/Jul/2023 13:11:49 Strace:    at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+MESSAGE: c:\Users\thingo.thabethe\source\repos\ValuationRoll_2022\FramePages\SearchCrit.aspx(184): error CS1026: ) expected
+ SOURCE: System.Web
+ TARGETSITE: System.Web.Compilation.BuildResult CompileWebFile(System.Web.VirtualPath)
+ STACK TRACE:    at System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 11/Jul/2023 13:16:22 Strace:    at System.Web.UI.TemplateParser.ProcessError(String message)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+
+Server tags cannot contain <% 
+Date: 11/Jul/2023 13:16:22 Strace:    at System.Web.UI.TemplateParser.ProcessError(String message)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+
+MESSAGE: Server tags cannot contain <% ... %> constructs.
+ SOURCE: System.Web
+ TARGETSITE: Void ProcessError(System.String)
+ STACK TRACE:    at System.Web.UI.TemplateParser.ProcessError(String message)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 11/Jul/2023 13:17:14 Strace:    at System.Web.UI.TemplateParser.ProcessError(String message)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+
+The server tag is not well formed
+Date: 11/Jul/2023 13:17:14 Strace:    at System.Web.UI.TemplateParser.ProcessError(String message)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+
+MESSAGE: The server tag is not well formed.
+ SOURCE: System.Web
+ TARGETSITE: Void ProcessError(System.String)
+ STACK TRACE:    at System.Web.UI.TemplateParser.ProcessError(String message)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 11/Jul/2023 13:17:16 Strace:    at System.Web.UI.TemplateParser.ProcessError(String message)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+
+The server tag is not well formed
+Date: 11/Jul/2023 13:17:16 Strace:    at System.Web.UI.TemplateParser.ProcessError(String message)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+
+MESSAGE: The server tag is not well formed.
+ SOURCE: System.Web
+ TARGETSITE: Void ProcessError(System.String)
+ STACK TRACE:    at System.Web.UI.TemplateParser.ProcessError(String message)
+   at System.Web.UI.TemplateParser.ParseStringInternal(String text, Encoding fileEncoding)
+   at System.Web.UI.TemplateParser.ParseString(String text, VirtualPath virtualPath, Encoding fileEncoding)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
