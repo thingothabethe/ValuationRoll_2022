@@ -1,5 +1,5 @@
-﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeBehind="SearchCrit.aspx.cs"  EnableSessionState="False" EnableViewState="false" Title="Search:Full Title Criteria" %>
-<%--Inherits="ETH_GV.FramePages.SearchCrit" --%>
+﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeBehind="SearchCrit.aspx.cs" Inherits="ETH_GV.FramePages.SearchCrit" EnableSessionState="False" EnableViewState="false" Title="Search:Full Title Criteria" %>
+<%-- --%>
 <asp:Content ID="Content" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
    
     <div class="container content" style="background-color: #f7f7f7; padding: 1%; margin-top: 1%; margin-bottom: 1%;">
