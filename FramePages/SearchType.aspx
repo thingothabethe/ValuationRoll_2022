@@ -1,5 +1,5 @@
 ﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeBehind="SearchType.aspx.cs" Inherits="ETH_GV.FramePages.SearchType" Theme="Default" ValidateRequest="false" EnableSessionState="False" EnableViewState="false" Title="VALUATION ROLL (GV 2022)" %>
-
+<%--Home: Valuations--%>
 <asp:Content ID="Content" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
     <div class="container" style="background-color: #f7f7f7; padding: 1%; margin-top: 1%; margin-bottom: 1%;">

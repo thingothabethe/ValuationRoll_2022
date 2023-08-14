@@ -120,7 +120,7 @@
 .searchResultCaption
 {
    background-color:#676060;
-   font-size:12px;
+   font-size:14px;
    font-weight:bolder;	
    color:White;
    font-weight:bolder;
@@ -138,7 +138,7 @@
 }
 .SearchResultRowHeader
 {
-  	font-size:11px;
+  	font-size:13px;
 	color:black;
 	font-weight:normal;
 	background-color:#DCDCDC; 
@@ -181,10 +181,10 @@
 .DbottomText:hover{FONT-SIZE: 8pt; COLOR: White; FONT-FAMILY:verdana,arial,helvetica; text-decoration:underline;font-weight:bold; }
 .DbottomText:active{FONT-SIZE: 8pt; COLOR: White; FONT-FAMILY:verdana,arial,helvetica; text-decoration:none;font-weight:bold; }
 
-.searchResultTblLink:link{FONT-SIZE: 7pt; COLOR: blue; FONT-FAMILY:verdana,arial,helvetica; text-decoration:underline; font-weight:normal;   }
-.searchResultTblLink:visited{FONT-SIZE: 7pt; COLOR: blue; FONT-FAMILY:verdana,arial,helvetica;text-decoration:underline; font-weight:normal; }
-.searchResultTblLink:hover{FONT-SIZE: 7pt; COLOR: Red ; FONT-FAMILY:verdana,arial,helvetica; text-decoration:underline;font-weight:normal; }
-.searchResultTblLink:active{FONT-SIZE: 7pt; COLOR: blue; FONT-FAMILY:verdana,arial,helvetica; text-decoration:underline;font-weight:normal; }
+.searchResultTblLink:link{FONT-SIZE: 8pt; COLOR: blue; FONT-FAMILY:verdana,arial,helvetica; text-decoration:underline; font-weight:normal;   }
+.searchResultTblLink:visited{FONT-SIZE: 8pt; COLOR: blue; FONT-FAMILY:verdana,arial,helvetica;text-decoration:underline; font-weight:normal; }
+.searchResultTblLink:hover{FONT-SIZE: 8pt; COLOR: Red ; FONT-FAMILY:verdana,arial,helvetica; text-decoration:underline;font-weight:normal; }
+.searchResultTblLink:active{FONT-SIZE: 8pt; COLOR: blue; FONT-FAMILY:verdana,arial,helvetica; text-decoration:underline;font-weight:normal; }
 
 
 
@@ -331,11 +331,11 @@
 	
 	
 }
-.HeaderMessage
-{
-	 color:Red;
-	 background-color:Yellow;
-	 font-size:12px;
+.HeaderMessage {
+	color: Red;
+	background-color: Yellow;
+	font-size: 14px;
+	font-weight: bolder;
 }
 
 .FooterRegards

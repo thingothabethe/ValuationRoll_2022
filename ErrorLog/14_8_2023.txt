@@ -229,3 +229,38 @@ MESSAGE: Could not find stored procedure 'Get_DropDownFillValues'.LoadDataBase--
    at System.Web.UI.Control.LoadRecursive()
    at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
  DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+Date: 14/Aug/2023 15:02:59 Strace:    at System.Collections.ArrayList.get_Item(Int32 index)
+   at System.Collections.Specialized.NameValueCollection.GetKey(Int32 index)
+   at System.Web.HttpValueCollection.Get(Int32 index)
+   at ETH_GV.Controls.SearchResult.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+Index was out of range
+Date: 14/Aug/2023 15:02:59 Strace:    at System.Collections.ArrayList.get_Item(Int32 index)
+   at System.Collections.Specialized.NameValueCollection.GetKey(Int32 index)
+   at System.Web.HttpValueCollection.Get(Int32 index)
+   at ETH_GV.Controls.SearchResult.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+
+MESSAGE: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+ SOURCE: mscorlib
+ TARGETSITE: System.Object get_Item(Int32)
+ STACK TRACE:    at System.Collections.ArrayList.get_Item(Int32 index)
+   at System.Collections.Specialized.NameValueCollection.GetKey(Int32 index)
+   at System.Web.HttpValueCollection.Get(Int32 index)
+   at ETH_GV.Controls.SearchResult.Page_Load(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
