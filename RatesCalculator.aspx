@@ -43,23 +43,13 @@
 </head>
 <body>
     <form id="form1" runat="server">
+         <div class="container" style="background-color: #f7f7f7; padding: 1%; margin-top: 1%; margin-bottom: 1%;">
+        <div style="padding: 1%">
     <div id="divPrintPart">
     <table id="3DTable1" cellSpacing="0" cellPadding="0" border="0">
         <TR>
-          <TD class="FormH" width="50%">Value Assist - Rates Calculator</TD>
-          <TD class="FormH" width="50%" align="right" style="padding-right:10px;">
-          <table cellpadding="0" cellspacing="0" border="0">
-                <tr>
-                <td><input type="submit" name="btnPrint" value="Print" onclick="javascript:PrintDiv();return false;" id="btnDiv" accesskey="c" title="Click to Print Window" class="button" style="cursor:hand;" /></td>
-                <td><input type="submit" name="btnSearch" value="Close" onclick="javascript:window.close();return false;" id="btnClose" accesskey="c" title="Click to Close Window" class="button" style="cursor:hand;" /></td>
-                    <td>
-                        <input type="submit" name="btnReset" value="Reset" id="btnReset" onclick="javascript:return Reset();" accesskey="r" title="Clear all the values." class="button" style="cursor:hand; display:none;" /></td>
-                     
-                     
-                </tr>
-            </table>
-             
-             
+          <TD class="FormH" style="width:100%; background-color:#01273a; color: white">
+              <h4>Value Assist - Rates Calculator</h4>
           </TD>
         </TR>
         <tr>
@@ -162,6 +152,17 @@
         </td>
         </tr>
    <tr>
+       <TD class="FormH" width="100%" align="right" style="padding-right:10px;background-color:transparent">
+          <table cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                <td><input type="submit" name="btnPrint" value="Print" onclick="javascript:PrintDiv();return false;" id="btnDiv" accesskey="c" title="Click to Print Window" class="button" style="cursor:hand;" /></td>
+                <td><input type="submit" name="btnSearch" value="Close" onclick="javascript:window.close();return false;" id="btnClose" accesskey="c" title="Click to Close Window" class="button" style="cursor:hand;" /></td>
+                    <td>
+                        <input type="submit" name="btnReset" value="Reset" id="btnReset" onclick="javascript:return Reset();" accesskey="r" title="Clear all the values." class="button" style="cursor:hand; display:none;" /></td>
+                </tr>
+            </table>
+          </TD>
+       <div></div>
    <td colspan="2" class="MessageBottom" style="padding-top:10px; padding-left:5px; color:Blue; background-color:White; font-size:11px;">
    <b>DISCLAIMER:</b> This information is provided as a service to the users of this web site and is based on the best information available. The Umngeni Municipality and Evaluations accept no liability for incorrect information. If in doubt users should confirm the valuations with the Customer Contact Centre.
 
@@ -172,6 +173,7 @@
         
         </table>
     </div>
+            </div></div>
     <asp:HiddenField runat="server" ID="hidMarketValue" />
     <asp:HiddenField runat="server" ID="hidCatType" />
     </form>
