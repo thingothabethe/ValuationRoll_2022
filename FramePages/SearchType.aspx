@@ -33,8 +33,8 @@
                                     </asp:DropDownList>
                                 </td>
 
-                                <td align="left" style="float:left">
-                                    <asp:Button class="button" ID="btnGo" runat="server" Text="Go" SkinID="BTN_SEARCH" OnClick="btnSearch_Click" AccessKey="s" ToolTip="Click" Style="cursor: hand;" />
+                                <td align="left" style="float:left;">
+                                    <asp:Button class="button" ID="btnGo" runat="server" Text="Go" SkinID="BTN_SEARCH" OnClick="btnSearch_Click" AccessKey="s" ToolTip="Click" Style="cursor: hand; margin-top:0;" />
                                 </td>
                                 <td>&nbsp;</td>
 

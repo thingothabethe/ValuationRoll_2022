@@ -1,6 +1,7 @@
-﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeBehind="SearchCrit2.aspx.cs" EnableSessionState="False" EnableViewState="false" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeBehind="SearchCrit2.aspx.cs" EnableSessionState="False" EnableViewState="false" Title="Sectional Title Criteria" %>
 
 <%--Inherits="ETH_GV.FramePages.SearchCrit2"--%>
+<%--Sectional Title property search--%>
 
 <asp:Content ID="Content" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
@@ -12,7 +13,7 @@
         <table id="3DTable1" cellspacing="0" cellpadding="0" width="100%" border="0">
             <tr>
                 <td class="FormH" style="width: 60%; background-color: #01273a; padding: 1%">
-                    <h4 style="margin: 0; color: white">Search Value Assist - Property</h4>
+                    <h4 style="margin: 0; color: white">Search Value Assist - Sectional Title Property</h4>
                 </td>
             </tr>
 
