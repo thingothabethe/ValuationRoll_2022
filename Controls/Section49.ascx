@@ -2,7 +2,7 @@
 <table cellpadding="0" cellspacing="0" border="0">
 <tr>
  <td colspan="2" align="right" style="padding-top:2px;">
-          <img src="../App_Themes/Default/Images/Section49/printer.gif" style="cursor:hand;" onclick="javascript:PrintDiv();" alt="Print" Title="Print"     border="0" ></img>
+          <img src="../App_Themes/Default/Images/Section49/printer.gif" style="cursor:hand;" onclick="javascript:PrintDiv();" alt="Print" Title="Print"  border="0" />
         </td>
 </tr>
 <tr>

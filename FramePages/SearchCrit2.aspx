@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeBehind="SearchCrit2.aspx.cs" EnableSessionState="False" EnableViewState="false" Title="Sectional Title Criteria" %>
 
 <%--Inherits="ETH_GV.FramePages.SearchCrit2"--%>
-<%--Sectional Title property search--%>
+<%-- Search: Sectional Title property--%>
 
 <asp:Content ID="Content" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 

@@ -7,7 +7,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head id="Head1" runat="server">
     <title>Search Result</title>
-    <script language="javascript"  type="text/javascript">try{var f = parent.document.getElementById('frmSearchType');if(f==null){location.href="./../PropertySearch.htm";}f.rows="155,*";function LoadingLayers(){}}catch(e){}</script>
+    <script language="javascript"  type="text/javascript">try { var f = parent.document.getElementById('frmSearchType'); if (f == null) { location.href ="SearchType.aspx";}f.rows="155,*";function LoadingLayers(){}}catch(e){}</script>
 </head>
 <body>
     <form id="form1" runat="server">

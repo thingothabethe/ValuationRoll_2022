@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-         The page that you have requested cannot be displayed. Click <a href="FramePages/SearchType.aspx" title="Clcik here">Back</a>to try again. 
+         The page that you have requested cannot be displayed. Click <a href="FramePages/SearchType.aspx" title="Click here" style="font-weight:bold">Back</a> to try again. 
     </div>
     
   
