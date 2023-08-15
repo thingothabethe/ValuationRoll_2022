@@ -17,7 +17,7 @@
         <header class="site-header" style="background-color:white">
   <div class="site-identity">
     <a href="#"><img src="/images/Logo.jpg" alt="Municipality Logo" /></a>
-    <h6 style="margin:0 auto"><strong>VALUATION ROLL GV 2022 - Market Value</strong><br /> In terms of the Local Government Municipal Properties Rating Act No 6 of 2004</h6>
+    <h6 style="margin:0 auto; padding: 1%"><strong>VALUATION ROLL GV 2022 - Market Value</strong><br /> In terms of the Local Government Municipal Properties Rating Act No 6 of 2004</h6>
   </div>  
   <nav class="site-navigation">
     <ul class="nav">
