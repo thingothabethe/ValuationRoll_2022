@@ -25,8 +25,8 @@
 {
 	padding-right: 1mm;
 	padding-left: 1mm;
-	background-color: floralwhite;
-	border-bottom: gainsboro 1px solid;
+	background-color: white;
+	border-bottom: #efebef 1px solid;
 	border-right:  none;
 	border-top:  none;
 	border-left:  none;
@@ -43,13 +43,13 @@
 </head>
 <body>
     <form id="form1" runat="server">
-         <div class="container" style="background-color: #f7f7f7; padding: 1%; margin-top: 1%; margin-bottom: 1%;">
+         <div class="container content" style="background-color: #f7f7f7; padding: 1%; margin-top: 1%; margin-bottom: 1%;">
         <div style="padding: 1%">
     <div id="divPrintPart">
     <table id="3DTable1" cellSpacing="0" cellPadding="0" border="0">
         <TR>
-          <TD class="FormH" style="width:100%; background-color:#01273a; color: white">
-              <h4>Value Assist - Rates Calculator</h4>
+          <TD class="FormH" style="width:100%; background-color:#01273a; color: white; padding: 1%; margin:0;">
+              <h4 style="margin:0">Value Assist - Rates Calculator</h4>
           </TD>
         </TR>
         <tr>
@@ -88,7 +88,7 @@
         </tr>
        
         <tr>
-        <td class="CaptionCalculation">Are you a Pensioner or Medically Boarded</td>
+        <td class="CaptionCalculation">Are you a Pensioner or Medically Boarded?</td>
         <td class="InfoRates"><asp:DropDownList runat="server" ID="drpType" SkinID="DRP_200PX">
         <asp:ListItem Text="No" Value="0"></asp:ListItem>
          <asp:ListItem Text="Yes" Value="1"></asp:ListItem>
@@ -141,7 +141,7 @@
         </tr>
         
             <tr>
-        <td class="CaptionCalculation">Estimated  Monthly Rates (R)</td>
+        <td class="CaptionCalculation" style="border-bottom: #efebef 1px solid;">Estimated  Monthly Rates (R)</td>
          <td class="InfoRates" align="right"><asp:Label runat="server" ID="lblMonRate" /></td>
           <td class="InfoRates">&nbsp;</td>
         </tr>
@@ -162,11 +162,11 @@
                 </tr>
             </table>
           </TD>
-       <div></div>
-   <td colspan="2" class="MessageBottom" style="padding-top:10px; padding-left:5px; color:Blue; background-color:White; font-size:11px;">
+       </tr>
+        <tr>
+       
+   <td colspan="2" class="MessageBottom" style="padding:1%; color:black; background-color:#ffcb05; font-size:12px;">
    <b>DISCLAIMER:</b> This information is provided as a service to the users of this web site and is based on the best information available. The Umngeni Municipality and Evaluations accept no liability for incorrect information. If in doubt users should confirm the valuations with the Customer Contact Centre.
-
-
    
    </td>
    </tr>
