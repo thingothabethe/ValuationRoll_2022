@@ -56,14 +56,7 @@
               </td>
 
             </tr>
-            <tr>
-              <td class="Body_TableCaption">Usage</td>
-              <td class="Body_TableContent">
-                <xsl:value-of select="PinDetails/Property/UseCodeDescription"/>
-                <xsl:value-of select="PinDetails/Property/UseCodeID"/>
-              </td>
-
-            </tr>
+            
             <tr>
               <td class="Body_TableCaption">Category</td>
               <td class="Body_TableContent">

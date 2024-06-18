@@ -5,7 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" >
 <head runat="server">
     <title>PIN Details</title>
-    <script language="javascript" type="text/javascript">try{var f = parent.document.getElementById('frmSearchType');if(f==null){location.href="./../PropertySearch.htm";}f.rows="195,*";function LoadingLayers(){}}catch(e){}</script>
+    <script language="javascript" type="text/javascript">try { var f = parent.document.getElementById('frmSearchType'); if (f == null) { location.href = "SearchType.aspx";}f.rows="195,*";function LoadingLayers(){}}catch(e){}</script>
     
     <script language="javascript" type="text/javascript">
     function openWindow(url) 
