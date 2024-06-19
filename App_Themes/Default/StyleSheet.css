@@ -133,12 +133,12 @@
 	bgColor:#ffffff;
 	border:1; 
 	font-family:Arial;
-	font-size:10px;		
+	font-size:12px;		
 	
 }
 .SearchResultRowHeader
 {
-  	font-size:13px;
+  	font-size:14px;
 	color:black;
 	font-weight:normal;
 	background-color:#DCDCDC; 
@@ -328,7 +328,7 @@
 .Message
 {
   color:Red;
-  font-size:12px;
+  font-size:14px;
 	
 	
 }
