@@ -21,8 +21,8 @@
   </div>  
   <nav class="site-navigation">
     <ul class="nav">
-      <li><a href="http://www.dataworld.co.za/TheCompany/about.asp">About</a></li> 
-      <li><a href="http://www.durban.gov.za/eThekwini/e_colophon/contact">Contact Us</a></li> 
+      <li><a href="https://www.durban.gov.za/pages/government/about-ethekwini">About</a></li> 
+      <li><a href="https://www.durban.gov.za/">Contact Us</a></li> 
     </ul>
   </nav>
 </header>
@@ -45,13 +45,13 @@
                
                         <ul style="margin:0; padding:0">
                             <li>
-                                <a href="http://www.durban.gov.za/eThekwini/e_colophon/payment" style="color:#fff"><p>Payment of Accounts </p></a>
+                                <a href="https://www.durban.gov.za/pages/residents/accounts_payments" style="color:#fff"><p>Payment of Accounts </p></a>
                             </li>
                             <li>
-                                <a href="http://www.durban.gov.za/eThekwini/e_colophon/edisclaimer" style="color:#fff"><p>  Email Disclaimer </p></a>                
+                                <a href="https://www.durban.gov.za/pages/government/edisclaimer" style="color:#fff"><p>  Email Disclaimer </p></a>                
                             </li>
                             <li>
-                                <a href="http://www.durban.gov.za/eThekwini/e_colophon/disclaimer" style="color:#fff"><p>  Disclaimer </p></a>               
+                                <a href="https://www.durban.gov.za/pages/government/cookie-policy" style="color:#fff"><p>  Cookie Policy </p></a>               
                             </li>
                             <li>
                                 <a href="https://www.durban.gov.za/pages/government/privacy-policy" style="color:#fff"> Privacy Policy</a>   
