@@ -1,5 +1,6 @@
 ﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="SearchResult.ascx.cs"
     Inherits="ETH_GV.Controls.SearchResult" %>
+<link href="../App_Themes/Default/StyleSheet.css" rel="stylesheet" />
 <table id="3DTable1" cellspacing="0" cellpadding="0" width="100%" border="0">
     <tr>
         <td style="width: 57%" class="FormH">
@@ -23,10 +24,9 @@
                     </td>
                     <td>
                         <asp:Menu runat="server" ID="Menu1" Visible="false" Orientation="Horizontal" DynamicHorizontalOffset="2"
-                            OnMenuItemClick="Menu1_ItemClick" Enabled="true" BackColor="#06A4D1" ForeColor="White"
-                            BorderColor="#D5692C" BorderStyle="Solid" BorderWidth="1px" Height="16.5"
-                            Style="text-align: center; vertical-align: text-top; font-size: 9pt; font-weight: bold; text-indent: 4px; font-family: arial;">
-                            <DynamicHoverStyle BackColor="#990000" ForeColor="White" />
+                            OnMenuItemClick="Menu1_ItemClick" Enabled="true" BackColor="#004fa3" ForeColor="White"
+                            Style="text-align: center; vertical-align: text-top; font-size: 16px; font-weight: 400; text-indent: 4px; font-family: arial; min-width:100px">
+                            <DynamicHoverStyle BackColor="#004fa3" ForeColor="White" />
                             <DynamicMenuStyle BackColor="#06A4D1" ForeColor="Black" />
                             <StaticSelectedStyle BackColor="#FFCC66" />
                             <DynamicSelectedStyle BackColor="#FFCC66" />
