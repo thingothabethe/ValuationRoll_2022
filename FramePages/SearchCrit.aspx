@@ -1,6 +1,7 @@
-﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeBehind="SearchCrit.aspx.cs"  EnableSessionState="False" EnableViewState="false" Title="Full Title Criteria" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeBehind="SearchCrit.aspx.cs" Inherits="ETH_GV.FramePages.SearchCrit"  EnableSessionState="False" EnableViewState="false" Title="Full Title Criteria" %>
 <%--Inherits="ETH_GV.FramePages.SearchCrit" --%>
 <%-- Search: Full Title property--%>
+
 <asp:Content ID="Content" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
    
     <div class="container content" style="background-color: #f7f7f7; padding: 1%; margin-top: 1%; margin-bottom: 1%;">
@@ -177,6 +178,7 @@
                 <input type="submit" name="btnSearch" value="Search" onclick="javascript:return SearchResult();" id="btnSearch" accesskey="s" title="Click to Search result" class="button" style="cursor: hand; float:right; width:100px; padding:0" />   
                 <input type="submit" name="btnReset" value="Reset" id="btnReset" onclick="javascript:return Reset();" accesskey="r" title="Clear all the search values." class="button" style="cursor: hand;float:right;width:100px; padding:0" />     
                 <input type="submit" name="btnBack" value="Back" id="btnBack" accesskey="b" onclick="javascript:return BackPerv();" title="Back to the previous page" class="button" style="cursor: hand;float:right; width:100px; padding:0" />
+                
             </div>
         </div>
     </div>
@@ -184,7 +186,7 @@
     </div>
     
 
-    <script language="javascript">
+    <script type="text/javascript" language="javascript">
         function BackPerv() { history.back(-1); return false; }
         function Reset() { setNullTextBox("txtRateNumber"); setNullTextBox("txtStreetNo"); setNullTextBox("txtStreetName"); setNullTextBox("txtERF"); setNullTextBox("txtPortion"); setNullTextBox("txtPortion"); SetNullDropDownCombo("drpVolumeNo"); SetNullDropDownCombo("drpSuburb"); SetNullDropDownCombo("drpDeedsTown"); return false; }
         function SearchResult() {
@@ -202,6 +204,8 @@
         function SetNullDropDownCombo(comboId) { try { document.getElementById(comboId).selectedIndex = 0; } catch (e) { } }
 
     </script>
+    
+    
 </asp:Content>
 
 

@@ -1,0 +1,28 @@
+Date: 16/Jul/2024 10:28:04 Strace:    at System.Web.UI.FileLevelPageControlBuilder.AppendLiteralString(String text)
+   at System.Web.UI.TemplateParser.ProcessLiteral()
+
+Only Content controls are allowed directly in a content page that contains Content controls
+Date: 16/Jul/2024 10:28:04 Strace:    at System.Web.UI.FileLevelPageControlBuilder.AppendLiteralString(String text)
+   at System.Web.UI.TemplateParser.ProcessLiteral()
+
+MESSAGE: Only Content controls are allowed directly in a content page that contains Content controls.
+ SOURCE: System.Web
+ TARGETSITE: Void AppendLiteralString(System.String)
+ STACK TRACE:    at System.Web.UI.FileLevelPageControlBuilder.AppendLiteralString(String text)
+   at System.Web.UI.TemplateParser.ProcessLiteral()
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 
+
+----------------------------------------
+Date: 16/Jul/2024 10:59:53 Strace:    at System.Web.UI.FileLevelPageControlBuilder.AppendLiteralString(String text)
+   at System.Web.UI.TemplateParser.ProcessLiteral()
+
+Only Content controls are allowed directly in a content page that contains Content controls
+Date: 16/Jul/2024 10:59:53 Strace:    at System.Web.UI.FileLevelPageControlBuilder.AppendLiteralString(String text)
+   at System.Web.UI.TemplateParser.ProcessLiteral()
+
+MESSAGE: Only Content controls are allowed directly in a content page that contains Content controls.
+ SOURCE: System.Web
+ TARGETSITE: Void AppendLiteralString(System.String)
+ STACK TRACE:    at System.Web.UI.FileLevelPageControlBuilder.AppendLiteralString(String text)
+   at System.Web.UI.TemplateParser.ProcessLiteral()
+ DATA: System.Collections.ListDictionaryInternal<br/> INNER EXCEPTION: 

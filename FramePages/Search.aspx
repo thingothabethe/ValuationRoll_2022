@@ -1,6 +1,6 @@
 <%--<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="~/FramePages/Search.aspx.cs" Inherits="FramePages_Search" Theme="Default" ValidateRequest="false" %>--%>
 
-<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeBehind="SearchCrit.aspx.cs"  EnableSessionState="False" EnableViewState="false" Title="Search: Full Title Criteria" %>
+<%@ Page Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeBehind="Search.aspx.cs" Inherits="FramePages_Search" EnableSessionState="False" EnableViewState="false" Title="Search: Full Title Criteria" %>
 <%--Inherits="ETH_GV.FramePages.SearchCrit" --%>
 <%-- Search: Full Title property--%>
 <asp:Content ID="Content" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
@@ -185,7 +185,7 @@
 
     </div>
     
-
+   
     <script language="javascript">
         function BackPerv() { history.back(-1); return false; }
         function Reset() { setNullTextBox("txtRateNumber"); setNullTextBox("txtStreetNo"); setNullTextBox("txtStreetName"); setNullTextBox("txtERF"); setNullTextBox("txtPortion"); setNullTextBox("txtPortion"); SetNullDropDownCombo("drpVolumeNo"); SetNullDropDownCombo("drpSuburb"); SetNullDropDownCombo("drpDeedsTown"); return false; }
@@ -203,8 +203,8 @@
         function GetValueFromDropDownCombo(comboId) { var selectVal = ""; try { selectVal = document.getElementById(comboId).options[document.getElementById(comboId).selectedIndex].value; } catch (e) { } return selectVal; }
         function SetNullDropDownCombo(comboId) { try { document.getElementById(comboId).selectedIndex = 0; } catch (e) { } }
 
-    </script>
-</asp:Content>
+    </script> 
 
+ </asp:Content>
 
 
